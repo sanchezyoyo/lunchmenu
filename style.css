@@ -1,16 +1,18 @@
 body{
-    background-color:green;
+    background-color:rgb(87, 127, 133);
 }
 
  .photo{
  width:200px;
  height:200px;
 }
+.words{
+    width: 200px;
+    height:200px;
+
+}
 
 
 
 
 
-
-
-z
